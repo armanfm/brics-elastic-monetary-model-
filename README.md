@@ -1,3 +1,8 @@
+
+<img width="1200" height="600" alt="ultra_deep" src="https://github.com/user-attachments/assets/cefac65b-61f1-4d17-a399-1a3a470e636d" />
+
+
+
 # BRICS Elastic Monetary Model  
 **Designing a BRICS Basket Currency with Elastic Reconvergence**
 
